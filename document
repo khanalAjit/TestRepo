@@ -1,0 +1,47 @@
+Consumers 
+
+AMS Consumer 
+
+Problem Statement 
+
+Creative professionals needed their fonts and creative projects to come together to create an organized visual map of all the things that they were working on. So to better manage the font needs of the user, a solution was required which would cater to requirements such as: 
+
+Managing user's creative projects 
+
+Sharing of these creative projects among themselves. 
+
+Access control of imported fonts. 
+
+ 
+
+Problem Solution 
+
+AMS was built to manage all types of user’s asset. These assets could be a FOLDER, WEB PROJECT, DIGITAL AD or FONTLIST .  
+
+Some of the functionalities that AMS caters are: 
+
+My Library Page: Create or Delete any kind of asset, Add font to an asset.. 
+
+Maintains asset’s depth (asset_level) and hierarchy (asset_path) 
+
+Asset Sharing: Share assets with a user, group or company-wide. MyLibrary: Asset Access, Asset Sharing and Permissions  
+
+Font Access: Sharing information of an Imported Font of the customer. ( assetType = Product ) 
+
+Shared Library Page: Helps provide a holistic overview of all the shared assets among the organisation to administrators. 
+
+Bulk Operations: Adding Inventory/Imported font to assets, Share multiple imported fonts with users. 
+
+ 
+
+Asset in AMS can be one of the following: 
+
+FontList: A font grouping tool for desktop use which the user can share with other people, teams or company-wide. 
+
+Digital Ad: A font grouping tool which helps them prepare their web fonts to be used in HTML5 digital ads when deployed over ad-networks. 
+
+Web Project: A font grouping tool to group all of the web fonts of the user which can be taken live in their web applications. 
+
+Folder: A font grouping tools the user have at their avail when it comes to organising their My Library. 
+
+ 
